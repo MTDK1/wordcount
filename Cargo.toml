@@ -1,0 +1,8 @@
+[package]
+name = "wordcount"
+version = "0.1.0"
+authors = ["Koichi Matsuda <k-matsuda@caldia.org>"]
+edition = "2018"
+
+[dependencies]
+regex = "1.0"
